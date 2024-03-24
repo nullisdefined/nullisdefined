@@ -2,7 +2,7 @@
 | ------------- | ------------- |
 
 
-<div align="left">
+<div align="center">
   <a href="https://velog.io/@jaeg00l">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
