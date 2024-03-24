@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullisdefined&show_icons=true&theme=noctis_minimus)
 
-<div align="center">
+<div align="left">
   <a href="https://velog.io/@jaeg00l">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
