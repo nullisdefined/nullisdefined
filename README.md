@@ -4,3 +4,4 @@
 
 <a href="mailto:jaeuu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=jaeuu.dev@gmail.com"/></a>
 
+<img alt="velog" src ="https://img.shields.io/badge/velog.svg?&style=for-the-badge&logo=velog&logoColor=#20C997"/>
