@@ -3,6 +3,6 @@
 
 <a href="mailto:jaeuu.dev@gmail.com">
   <img src="https://img.shields.io/badge/jaeuu.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> <a href="https://velog.io/@jaeg00l">
+</a> <a href = "https://github.com/nullisdefined"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <a href="https://velog.io/@jaeg00l">
   <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
